@@ -3,5 +3,3 @@
 Ferramentas:
 - Spring (Boot, Data)
 - Java 8
-- Loombok
-
